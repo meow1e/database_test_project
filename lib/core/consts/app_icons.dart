@@ -6,4 +6,7 @@ abstract class AppIcons{
   static const check = '$path/check.svg';
   static const gallery = '$path/gallery.svg';
   static const left ='$path/left.svg';
+  static const profPic ='$path/emptyProfPic.svg';
+  static const chevronLeft ='$path/chevronLeft.svg';
+  static const emptyProfPic='$path/emptyProfile.png';
 }
